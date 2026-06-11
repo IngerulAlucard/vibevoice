@@ -1,4 +1,4 @@
-```
+
 # VibeVoice en Colab 🎙️✨
 
 Este repositorio proporciona un entorno optimizado para ejecutar **VibeVoice** (Generación de Voz con IA) de forma rápida y sencilla utilizando **Google Colab**. Diseñado para aprovechar al máximo la aceleración por GPU en la nube sin complicaciones de configuración local.
@@ -56,5 +56,6 @@ Ejecuta cada celda en orden hasta que te arroje la ip que deberás abrir para us
 
 
 ---
+
 
 Repo original: https://github.com/microsoft/VibeVoice
